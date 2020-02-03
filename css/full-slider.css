@@ -13,3 +13,38 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.container-header {
+  margin-top: 1em;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+a.navbar-brand {
+  text-decoration: none;
+}
+
+a.navbar-brand:hover {
+  text-decoration: none;
+  font-weight: normal;
+}
+
+a.a-body {
+  color: #212529;
+  text-decoration: underline;
+}
+
+a.a-body:hover {
+  color: #212529;
+  text-decoration: underline;
+  font-weight: bolder;
+}
